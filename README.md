@@ -7,7 +7,7 @@
 ### `onepat4all`
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Jr.+Full-Stack+Developer;Data+Science+%26+AI+Enthusiast;API+%26+Automation+Architect;Building+things+that+matter." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Jr.+Full-Stack+Developer;Data+Science+%26+AI+Enthusiast;API+%26+Automation+Architect;Building+things+that+matter." alt="Typing SVG" />
 </p>
 
 <p>
@@ -46,6 +46,9 @@ I've adopted **continuous self-improvement** as a personal principle. My goal is
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 **Frontend**
 
@@ -58,19 +61,24 @@ I've adopted **continuous self-improvement** as a personal principle. My goal is
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Data & AI**
+**AI & Voice Platforms**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Retell AI](https://img.shields.io/badge/Retell_AI-000000?style=flat-square&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-5B5BD6?style=flat-square&logoColor=white)
 
-**Tools & Infra**
+**Automation & Tools**
 
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Currently Learning**
+
+![C%23](https://img.shields.io/badge/C%23_OOP-239120?style=flat-square&logo=csharp&logoColor=white)
 
 ---
 
