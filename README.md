@@ -33,8 +33,8 @@ Studying **C# & OOP** on the side. Always learning something.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sqlite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -54,7 +54,7 @@ Studying **C# & OOP** on the side. Always learning something.
 
 **Currently Learning**
 
-![CSharp OOP](https://img.shields.io/badge/C%23_OOP-239120?style=flat-square&logo=dotnet&logoColor=white)
+![CSharp OOP](https://img.shields.io/badge/C%23_OOP-239120?style=flat-square&logo=sharp&logoColor=white)
 
 ---
 
