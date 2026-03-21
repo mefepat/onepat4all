@@ -22,11 +22,11 @@
 
 ## About Me
 
-I'm a **20-year-old software developer and active student**, with roots in the field going back to middle school — inspired by my father's profession. I graduated from a Science-Focused High School and built a strong foundation in English through an intensive language program early on.
+I'm a **20-year-old software developer and active student**, with roots in the field going back to middle school, inspired by my father's profession. I graduated from a Science-Focused High School and built a strong foundation in English through an intensive language program early on.
 
 Over the years I've worked on personal projects, freelance work, and external collaborations alongside my academic journey. I hold a **Software Algorithm Certificate** and have completed numerous development courses, sharpening my problem-solving, analytical thinking, and algorithmic skills.
 
-I work across both frontend and backend, but my core focus is **backend systems, algorithms, and scalable architectures**. I believe AI should be a first-class citizen in modern software — I integrate it into my projects wherever it adds real value.
+I work across both frontend and backend, but my core focus is **backend systems, algorithms, and scalable architectures**. I believe AI should be a first-class citizen in modern software  I integrate it into my projects wherever it adds real value.
 
 Currently specializing in:
 
@@ -41,26 +41,24 @@ I've adopted **continuous self-improvement** as a personal principle. My goal is
 
 ## Tech Stack
 
-**Languages**
+**Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-
-**Frontend**
-
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **AI & Voice Platforms**
@@ -78,7 +76,7 @@ I've adopted **continuous self-improvement** as a personal principle. My goal is
 
 **Currently Learning**
 
-![C%23](https://img.shields.io/badge/C%23_OOP-239120?style=flat-square&logo=csharp&logoColor=white)
+![CSharp OOP](https://img.shields.io/badge/C%23_OOP-239120?style=flat-square&logo=csharp&logoColor=white)
 
 ---
 
