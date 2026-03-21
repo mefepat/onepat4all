@@ -9,11 +9,13 @@
 
 ---
 
-20 y/o developer. Been in this since middle school — it's in the family.
+20 y/o software developer and active student. I've been involved in software since middle school, following my father's profession, and have grown within this field ever since. I graduated from a Science-Focused High School and have a strong foundation in English from an early age.
 
-I focus on **backend systems** and **AI-powered automation**. I build things that save time, cut costs, and actually get used. Currently deep into n8n, API integrations, and voice AI platforms like Retell and Vapi.
+Alongside my studies, I've continuously worked on personal projects and taken part in freelance and external projects. I hold a **Software Algorithm Certificate** and have completed numerous development courses that strengthened my problem-solving and algorithmic thinking skills.
 
-Studying **C# & OOP** on the side. Always learning something.
+My primary focus is **backend systems, algorithms, and scalable architectures**. I strongly believe in integrating AI into modern software and make it a core part of my projects wherever possible. Currently specializing in **n8n workflows, API integrations, automation systems, and AI-powered business solutions** — helping companies optimize their operations and reduce costs.
+
+I'm currently deepening my knowledge in **C# and OOP**, and I treat continuous self-improvement as a personal principle.
 
 ---
 
@@ -34,7 +36,7 @@ Studying **C# & OOP** on the side. Always learning something.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -55,15 +57,6 @@ Studying **C# & OOP** on the side. Always learning something.
 **Currently Learning**
 
 ![CSharp OOP](https://img.shields.io/badge/C%23_OOP-239120?style=flat-square&logo=sharp&logoColor=white)
-
----
-
-## Stats
-
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=onepat4all&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onepat4all&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
 
 ---
 
