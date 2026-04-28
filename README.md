@@ -1,9 +1,9 @@
 <div align="center">
 
-# Mefe
+# Efe M. Pat
 ### Founder of Patch Automation · Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=14&pause=1200&color=888888&center=true&vCenter=true&width=420&lines=Automation+%7C+Backend+%7C+AI+Systems;Building+systems+that+replace+manual+work." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=18&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=Automation+%7C+Backend+%7C+AI+Systems;Building+systems+that+replace+manual+work." />
 
 </div>
 
@@ -29,14 +29,23 @@ Through **Patch Automation**, I help businesses:
 
 ## Stack
 
-**Backend & Automation**
+**Backend & Automation**  
 Node.js · Python · C# · MySQL · n8n · Zapier  
 
-**AI**
+**AI & Voice**  
 OpenAI · Vapi · Retell AI  
 
-**Frontend**
+**Frontend**  
 React · Next.js · Tailwind  
+
+---
+
+## What I Build
+
+- Automated booking & scheduling systems  
+- AI-powered assistants (chat & voice)  
+- Workflow automation pipelines  
+- Business process optimization systems  
 
 ---
 
