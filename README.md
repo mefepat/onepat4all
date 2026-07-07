@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=54&loop=false&color=faf9f5&center=true&vCenter=true&width=800&lines=Efe+Muhsin+PAT" alt="Efe Muhsin PAT" />
+<img src="https://capsule-render.vercel.app/api?type=text&text=Efe%20Muhsin%20PAT&fontName=IM%20Fell%20English%20SC&fontSize=54&fontColor=faf9f5&height=100" alt="Efe Muhsin PAT" />
 
 ### Founder of [Patch Automation](https://patchtr.com) · Developer
 
@@ -57,8 +57,7 @@ Through **[Patch Automation](https://patchtr.com)**, my agency, I help businesse
   <img src="https://img.shields.io/badge/Gemini-141413?style=flat-square&logo=googlegemini&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/ChatGPT-141413?style=flat-square&logo=openai&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/Hermes-141413?style=flat-square&logoColor=faf9f5" />
-  <img src="https://img.shields.io/badge/OpenClaw-141413?style=flat-square&logoColor=faf9f5" />
-  <img src="https://img.shields.io/badge/CrewAI-141413?style=flat-square&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/OpenClaw-141413?style=flat-square&logo=openclaw&logoColor=faf9f5" />
 </div>
 
 ---
