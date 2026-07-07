@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=text&text=Efe%20Muhsin%20PAT&fontName=IM%20Fell%20English%20SC&fontSize=54&fontColor=faf9f5&height=100" alt="Efe Muhsin PAT" />
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=54&pause=100000&color=faf9f5&center=true&vCenter=true&width=800&height=90&lines=Efe+Muhsin+PAT" alt="Efe Muhsin PAT" />
 
 ### Founder of [Patch Automation](https://patchtr.com) · Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=C46849&center=true&vCenter=true&width=500&lines=Automation+%7C+Backend+%7C+AI+Systems;Building+systems+that+replace+manual+work." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2000&color=C46849&center=true&vCenter=true&width=700&height=50&lines=Automation+%7C+Backend+%7C+AI+Systems;Building+systems+that+replace+manual+work." />
 
 ### *Make AI Agents Your Unfair Advantage.*
 
@@ -57,7 +57,7 @@ Through **[Patch Automation](https://patchtr.com)**, my agency, I help businesse
   <img src="https://img.shields.io/badge/Gemini-141413?style=flat-square&logo=googlegemini&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/ChatGPT-141413?style=flat-square&logo=openai&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/Hermes-141413?style=flat-square&logoColor=faf9f5" />
-  <img src="https://img.shields.io/badge/OpenClaw-141413?style=flat-square&logo=openclaw&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/OpenClaw-141413?style=flat-square&logoColor=faf9f5" />
 </div>
 
 ---
