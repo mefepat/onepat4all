@@ -1,6 +1,7 @@
 <div align="center">
 
-# Efe Muhsin PAT
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=42&color=faf9f5&center=true&vCenter=true&width=600&lines=EFE+MUHSIN+PAT" alt="EFE MUHSIN PAT" />
+
 ### Founder of [Patch Automation](https://patchtr.com) · Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=C46849&center=true&vCenter=true&width=500&lines=Automation+%7C+Backend+%7C+AI+Systems;Building+systems+that+replace+manual+work." />
