@@ -84,10 +84,13 @@ Through **[Patch Automation](https://patchtr.com)**, my agency, I help businesse
 📩 **Email:** efe@patchtr.com  
 
 <div align="left">
-  <a href="https://instagram.com/mef4m">
-    <img src="https://img.shields.io/badge/Instagram-141413?style=for-the-badge&logo=instagram&logoColor=faf9f5" />
+  <a href="https://www.linkedin.com/in/efemuhsinpat">
+    <img src="https://img.shields.io/badge/LinkedIn-141413?style=for-the-badge&logo=linkedin&logoColor=faf9f5" />
+  </a>
+  <a href="https://www.linkedin.com/company/patch-automation/">
+    <img src="https://img.shields.io/badge/Patch_Automation-141413?style=for-the-badge&logo=linkedin&logoColor=faf9f5" />
   </a>
   <a href="https://instagram.com/selbstubersteigerung">
-    <img src="https://img.shields.io/badge/2._Instagram-141413?style=for-the-badge&logo=instagram&logoColor=faf9f5" />
+    <img src="https://img.shields.io/badge/Instagram-141413?style=for-the-badge&logo=instagram&logoColor=faf9f5" />
   </a>
 </div>
