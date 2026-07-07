@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=54&pause=100000&color=faf9f5&center=true&vCenter=true&width=800&height=90&lines=Efe+Muhsin+PAT" alt="Efe Muhsin PAT" />
+# Efe Muhsin PAT
 
 ### Founder of [Patch Automation](https://patchtr.com) · Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2000&color=C46849&center=true&vCenter=true&width=700&height=50&lines=Automation+%7C+Backend+%7C+AI+Systems;Building+systems+that+replace+manual+work." />
+**Automation · Backend · AI Systems** — Building systems that replace manual work.
 
 ### *Make AI Agents Your Unfair Advantage.*
 
@@ -41,6 +41,21 @@ Through **[Patch Automation](https://patchtr.com)**, my agency, I help businesse
   <img src="https://img.shields.io/badge/Make-141413?style=flat-square&logo=make&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/Next.js-141413?style=flat-square&logo=nextdotjs&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/Docker-141413?style=flat-square&logo=docker&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/PostgreSQL-141413?style=flat-square&logo=postgresql&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Firebase-141413?style=flat-square&logo=firebase&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Supabase-141413?style=flat-square&logo=supabase&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Dokploy-141413?style=flat-square&logo=dokploy&logoColor=faf9f5" />
+</div>
+
+### Integrations & Platforms
+<div align="left">
+  <img src="https://img.shields.io/badge/Notion-141413?style=flat-square&logo=notion&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Slack-141413?style=flat-square&logo=slack&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/GitHub-141413?style=flat-square&logo=github&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/HubSpot-141413?style=flat-square&logo=hubspot&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Salesforce-141413?style=flat-square&logo=salesforce&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Stripe-141413?style=flat-square&logo=stripe&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Shopify-141413?style=flat-square&logo=shopify&logoColor=faf9f5" />
 </div>
 
 ### Data Formats
@@ -53,9 +68,12 @@ Through **[Patch Automation](https://patchtr.com)**, my agency, I help businesse
 
 ### AI Models & Agents
 <div align="left">
-  <img src="https://img.shields.io/badge/Claude_Code-141413?style=flat-square&logo=anthropic&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Claude_Code-141413?style=flat-square&logo=claude&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Claude-141413?style=flat-square&logo=claude&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/Gemini-141413?style=flat-square&logo=googlegemini&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/ChatGPT-141413?style=flat-square&logo=openai&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Perplexity-141413?style=flat-square&logo=perplexity&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Ollama-141413?style=flat-square&logo=ollama&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/Hermes-141413?style=flat-square&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/OpenClaw-141413?style=flat-square&logoColor=faf9f5" />
 </div>
@@ -64,10 +82,16 @@ Through **[Patch Automation](https://patchtr.com)**, my agency, I help businesse
 
 ## 🚀 What I Do
 
-- **Automate repetitive business processes:** Building workflows that connect different platforms.
-- **Build AI-powered systems:** Integrating intelligence into everyday operations.
-- **Design scalable backend workflows:** Creating robust infrastructures for agencies and businesses.
-- **Integrate tools and APIs:** Unifying disparate systems into a single, cohesive workflow.
+- **AI Chatbots:** Web and messaging chatbots that handle customer conversations.
+- **Voice AI Agents:** Automated voice secretary systems for calls and scheduling.
+- **Appointment Systems:** End-to-end booking and scheduling automation.
+- **Content Automation:** Automated content generation and publishing pipelines.
+- **Web Design:** Building fast, conversion-focused websites.
+- **Lead Automation:** Capturing, qualifying, and routing leads automatically.
+- **CRM Integration:** Connecting CRMs (HubSpot, Salesforce) into unified workflows.
+- **Finance & Collections Automation:** Automating invoicing, payments, and follow-ups.
+- **Review & Feedback Management:** Automated review requests and reputation monitoring.
+- **Custom AI Solutions:** Bespoke AI systems tailored to specific business needs.
 
 ---
 
