@@ -1,9 +1,11 @@
 <div align="center">
 
-# Efe Muhsin Pat
+# Efe Muhsin PAT
 ### Founder of [Patch Automation](https://patchtr.com) · Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=C46849&center=true&vCenter=true&width=500&lines=Automation+%7C+Backend+%7C+AI+Systems;Building+systems+that+replace+manual+work." />
+
+### *Make AI Agents Your Unfair Advantage.*
 
 </div>
 
@@ -33,9 +35,9 @@ Through **[Patch Automation](https://patchtr.com)**, my agency, I help businesse
 
 ### Automation & Infrastructure
 <div align="left">
-  <img src="https://img.shields.io/badge/n8n-C46849?style=for-the-badge&logo=n8n&logoColor=faf9f5" />
-  <img src="https://img.shields.io/badge/Zapier-C46849?style=for-the-badge&logo=zapier&logoColor=faf9f5" />
-  <img src="https://img.shields.io/badge/Make-C46849?style=for-the-badge&logo=make&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/n8n-141413?style=for-the-badge&logo=n8n&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Zapier-141413?style=for-the-badge&logo=zapier&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Make-141413?style=for-the-badge&logo=make&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/Next.js-141413?style=for-the-badge&logo=nextdotjs&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/Docker-141413?style=for-the-badge&logo=docker&logoColor=faf9f5" />
 </div>
@@ -50,8 +52,8 @@ Through **[Patch Automation](https://patchtr.com)**, my agency, I help businesse
 
 ### AI Models & Agents
 <div align="left">
-  <img src="https://img.shields.io/badge/Claude_Code-C46849?style=for-the-badge&logo=anthropic&logoColor=faf9f5" />
-  <img src="https://img.shields.io/badge/Gemini-C46849?style=for-the-badge&logo=google&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Claude_Code-141413?style=for-the-badge&logo=anthropic&logoColor=faf9f5" />
+  <img src="https://img.shields.io/badge/Gemini-141413?style=for-the-badge&logo=google&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/Hermes-141413?style=for-the-badge&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/OpenClaw-141413?style=for-the-badge&logoColor=faf9f5" />
   <img src="https://img.shields.io/badge/CrewAI-141413?style=for-the-badge&logoColor=faf9f5" />
@@ -84,13 +86,7 @@ Through **[Patch Automation](https://patchtr.com)**, my agency, I help businesse
 📩 **Email:** efe@patchtr.com  
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/efemuhsinpat">
-    <img src="https://img.shields.io/badge/LinkedIn-141413?style=for-the-badge&logo=linkedin&logoColor=faf9f5" />
-  </a>
-  <a href="https://www.linkedin.com/company/patch-automation/">
-    <img src="https://img.shields.io/badge/Patch_Automation-141413?style=for-the-badge&logo=linkedin&logoColor=faf9f5" />
-  </a>
-  <a href="https://instagram.com/selbstubersteigerung">
-    <img src="https://img.shields.io/badge/Instagram-141413?style=for-the-badge&logo=instagram&logoColor=faf9f5" />
-  </a>
+  <a href="https://www.linkedin.com/in/efemuhsinpat"><img src="https://img.shields.io/badge/LinkedIn-C46849?style=for-the-badge&logo=linkedin&logoColor=faf9f5" /></a>
+  <a href="https://www.linkedin.com/company/patch-automation/"><img src="https://img.shields.io/badge/Patch_Automation-C46849?style=for-the-badge&logo=linkedin&logoColor=faf9f5" /></a>
+  <a href="https://instagram.com/selbstubersteigerung"><img src="https://img.shields.io/badge/Instagram-C46849?style=for-the-badge&logo=instagram&logoColor=faf9f5" /></a>
 </div>
